@@ -18,3 +18,6 @@ def rujak(x):
 
 gadoGado(1)
 rujak(3)
+
+
+print(bin(4)[2:])
